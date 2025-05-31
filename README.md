@@ -2,16 +2,6 @@
 
 This is a simple Node.js + Express application that connects to MongoDB and provides APIs for managing users and products.
 
-## 📦 Project Structure
-
-├── models/
-│   ├── product_model.js
-│   └── user_model.js
-├── router
-│   ├── product.js
-│   └── user.js
-├── .env
-
 ## 🚀 Getting Started
 
 ### Prerequisites
